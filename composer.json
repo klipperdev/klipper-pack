@@ -1,0 +1,50 @@
+{
+    "name": "klipper/klipper-pack",
+    "type": "symfony-pack",
+    "description": "Minimal Pack for Klipper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "François Pluchino",
+            "email": "francois.pluchino@klipper.dev"
+        }
+    ],
+    "require": {
+        "php": "^7.4.0",
+        "ext-ctype": "*",
+        "ext-iconv": "*",
+        "klipper/api-bundle": "^2.0.0",
+        "klipper/cache-bundle": "^2.0.0",
+        "klipper/choice-bundle": "^2.0.0",
+        "klipper/content-bundle": "^2.0.0",
+        "klipper/doctrine-extensions-bundle": "^2.0.0",
+        "klipper/form-bundle": "^2.0.0",
+        "klipper/http-kernel": "^2.0.0",
+        "klipper/metadata-extensions-bundle": "^2.0.0",
+        "klipper/rope": "^2.0.0",
+        "klipper/routing-bundle": "^2.0.0",
+        "klipper/routing-extra-bundle": "^2.0.0",
+        "klipper/search-bundle": "^2.0.0",
+        "klipper/security-extra-bundle": "^2.0.0",
+        "klipper/serializer-extra-bundle": "^2.0.0",
+        "klipper/session-bundle": "^2.0.0",
+        "klipper/user-bundle": "^2.0.0",
+        "nelmio/cors-bundle": "^2.0.0",
+        "sensio/framework-extra-bundle": "^5.5.0",
+        "stof/doctrine-extensions-bundle": "^1.4.0",
+        "symfony/console": "^4.4.0",
+        "symfony/dotenv": "^4.4.0",
+        "symfony/http-client": "^4.4.0",
+        "symfony/messenger": "^4.4.0",
+        "symfony/monolog-bundle": "^3.5.0",
+        "symfony/orm-pack": "^1.0.0",
+        "symfony/yaml": "^4.4.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0-dev"
+        }
+    }
+}

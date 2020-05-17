@@ -17,6 +17,7 @@
         "klipper/cache-bundle": "^2.0.0",
         "klipper/choice-bundle": "^2.0.0",
         "klipper/content-bundle": "^2.0.0",
+        "klipper/data-loader-security-bundle": "^2.0.0",
         "klipper/dependency-injection-bundle": "^2.0.0",
         "klipper/doctrine-extensions-bundle": "^2.0.0",
         "klipper/form-bundle": "^2.0.0",

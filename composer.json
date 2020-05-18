@@ -15,6 +15,7 @@
         "ext-iconv": "*",
         "klipper/api-bundle": "^2.0.0",
         "klipper/api-metadata-bundle": "^2.0.0",
+        "klipper/api-search-bundle": "^2.0.0",
         "klipper/cache-bundle": "^2.0.0",
         "klipper/choice-bundle": "^2.0.0",
         "klipper/content-bundle": "^2.0.0",

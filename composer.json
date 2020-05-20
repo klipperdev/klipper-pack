@@ -31,6 +31,7 @@
         "klipper/routing-extra-bundle": "^2.0.0",
         "klipper/search-bundle": "^2.0.0",
         "klipper/security-extra-bundle": "^2.0.0",
+        "klipper/security-oauth-bundle": "^2.0.0",
         "klipper/serializer-extra-bundle": "^2.0.0",
         "klipper/session-bundle": "^2.0.0",
         "klipper/user-bundle": "^2.0.0",

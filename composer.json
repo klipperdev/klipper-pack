@@ -19,6 +19,7 @@
         "klipper/api-security-oauth-bundle": "^2.0.0",
         "klipper/cache-bundle": "^2.0.0",
         "klipper/choice-bundle": "^2.0.0",
+        "klipper/config-bundle": "^2.0.0",
         "klipper/console-bundle": "^2.0.0",
         "klipper/content-bundle": "^2.0.0",
         "klipper/data-loader-security-bundle": "^2.0.0",

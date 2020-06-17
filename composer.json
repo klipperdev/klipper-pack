@@ -17,6 +17,7 @@
         "klipper/api-metadata-bundle": "^2.0.0",
         "klipper/api-search-bundle": "^2.0.0",
         "klipper/api-security-bundle": "^2.0.0",
+        "klipper/api-user-bundle": "^2.0.0",
         "klipper/cache-bundle": "^2.0.0",
         "klipper/choice-bundle": "^2.0.0",
         "klipper/config-bundle": "^2.0.0",

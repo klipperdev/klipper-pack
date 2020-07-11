@@ -34,6 +34,7 @@
         "klipper/form-bundle": "^2.0.0",
         "klipper/http-kernel": "^2.0.0",
         "klipper/metadata-extensions-bundle": "^2.0.0",
+        "klipper/phone-bundle": "^2.0.0",
         "klipper/rope": "^2.0.0",
         "klipper/routing-bundle": "^2.0.0",
         "klipper/routing-extra-bundle": "^2.0.0",

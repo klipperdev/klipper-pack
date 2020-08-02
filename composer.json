@@ -33,6 +33,7 @@
         "klipper/doctrine-extensions-bundle": "^2.0.0",
         "klipper/form-bundle": "^2.0.0",
         "klipper/http-kernel": "^2.0.0",
+        "klipper/list-view": "^2.0.0",
         "klipper/metadata-extensions-bundle": "^2.0.0",
         "klipper/phone-bundle": "^2.0.0",
         "klipper/rope": "^2.0.0",

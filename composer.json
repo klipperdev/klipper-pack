@@ -18,6 +18,7 @@
         "doctrine/doctrine-bundle": "^2.1.0",
         "doctrine/doctrine-migrations-bundle": "^3.0.0",
         "klipper/api-bundle": "^2.0.0",
+        "klipper/api-intl-bundle": "^2.0.0",
         "klipper/api-metadata-bundle": "^2.0.0",
         "klipper/api-search-bundle": "^2.0.0",
         "klipper/api-security-bundle": "^2.0.0",

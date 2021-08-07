@@ -15,7 +15,7 @@
         "ext-iconv": "*",
         "composer/package-versions-deprecated": "^1.8.0",
         "doctrine/orm": "^2.7.0",
-        "doctrine/doctrine-bundle": "^2.1.0",
+        "doctrine/doctrine-bundle": "^2.4.0",
         "doctrine/doctrine-migrations-bundle": "^3.0.0",
         "klipper/api-bundle": "^2.0.0",
         "klipper/api-intl-bundle": "^2.0.0",
